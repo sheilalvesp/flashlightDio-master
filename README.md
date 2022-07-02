@@ -1,4 +1,4 @@
-### Construindo um aplicativo usando o sensor de movimento com React Native 💡
+### Construindo um App usando Sensor de Movimento com React Native -expo go 💡
 <br>
 
 
